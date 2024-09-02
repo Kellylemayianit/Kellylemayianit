@@ -3,7 +3,7 @@
 - - 🌱 I’m currently learning web development and building AI chatbots 
 - 💞️ I’m looking to collaborate on projects about web development and AI chatbot development
 - 📫 How to reach me : Facebook = "Kelly Lema", "
-- 😄 Pronouns: ...
+- 😄 Pronouns: Mr.AvianKing 
 - ⚡ Fun fact: ...
 
 <!---
