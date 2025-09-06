@@ -2,7 +2,7 @@
 - 👀 I’m interested in being a software engineer
 - - 🌱 I’m currently learning web development and building AI Automation to produce AI Saas products 
 - 💞️ I’m looking to collaborate on projects about web development and AI Automation
-- 📫 How to reach me : Facebook = "Kelly Lema", "
+- 📫 How to reach me : Facebook/LinkedIn = "Kelly Lemayian", "
 - 😄 Pronouns: Mr.AvianKing 
 - ⚡ Fun fact: ...
 
