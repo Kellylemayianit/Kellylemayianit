@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Kellylemayianit
-- 👀 I’m interested in being an AI Engineer
-- - 🌱 I’m currently learning web development and building AI Automation to produce AI Saas products 
-- 💞️ I’m looking to collaborate on projects about web development and AI Automation
-- 📫 How to reach me : Facebook/LinkedIn = "Kelly Lemayian", "
-- 😄 Pronouns: Mr.AvianKing 
-- ⚡ Fun fact: ...
-
-<!---
-Kellylemayianit/Kellylemayianit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-Stack Engineer 👽 | React • TypeScript • DevOps • AI Integration. I build production-ready web apps end-to-end. Available for remote USD contracts & technical bounties. Check my pinned repos for proof of work. 🚀
